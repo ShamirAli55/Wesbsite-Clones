@@ -1,20 +1,21 @@
 # 🌐 Website Clones
 
-A collection of responsive and modern website clones built using **HTML**, **CSS**, and **JavaScript**. These are recreated from scratch to practice front-end development, layout design, and animation techniques — perfect for honing UI/UX skills.
+A collection of responsive and pixel-perfect **website clones** built using only **HTML**, **CSS**, and **JavaScript**. This project helps practice modern UI layouts, responsiveness, and interactivity by recreating real-world landing pages and UIs.
 
 ---
 
 ## 🚀 Live Previews
 
-| Clone Name           | Live Preview                                                  |
-|----------------------|---------------------------------------------------------------|
-| Netflix Landing Page | [View](https://your-username.github.io/Website-Clones/netflix/)      |
-| Starbucks UI         | [View](https://your-username.github.io/Website-Clones/starbucks/)    |
-| Nike Product Page    | [View](https://your-username.github.io/Website-Clones/nike/)         |
-| Apple Hero Section   | [View](https://your-username.github.io/Website-Clones/apple/)        |
-| Tesla Homepage       | [View](https://your-username.github.io/Website-Clones/tesla/)        |
+| 🌟 Website Clone      | 🔗 Live Preview |
+|-----------------------|----------------|
+| Netflix               | [View](https://your-username.github.io/Website-Clones/netflix/) |
+| Starbucks             | [View](https://your-username.github.io/Website-Clones/starbucks/) |
+| Nike                  | [View](https://your-username.github.io/Website-Clones/nike/) |
+| Apple                 | [View](https://your-username.github.io/Website-Clones/apple/) |
+| Tesla                 | [View](https://your-username.github.io/Website-Clones/tesla/) |
+| Amazon                | [View](https://your-username.github.io/Website-Clones/amazon/) |
 
-> 📌 Replace `your-username` with your GitHub username and adjust paths if needed.
+> ⚠️ Replace `your-username` in the links with your actual GitHub username.
 
 ---
 
