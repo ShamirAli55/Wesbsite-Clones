@@ -13,10 +13,10 @@ Each clone resides in its own folder and contains `index.html`, `style.css`, and
 ## 📁 Folder Structure
 
 Each folder contains:
-Website-Name/
-├── index.html
-├── style.css
-└── script.js
+Website-Name/<br>
+├── index.html<br>
+├── style.css<br>
+└── script.js<br>
 
 
 ## 🚀 Live Previews
