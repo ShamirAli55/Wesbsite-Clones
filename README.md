@@ -23,13 +23,13 @@ Website-Name/<br>
 
 Click to view the deployed versions on **GitHub Pages**:
 
-| Clone Name      | Live Preview                                                                 |
-|-----------------|-------------------------------------------------------------------------------|
-| YouTube Clone   | [Live Preview](https://shamirali55.github.io/Website-Clones/YouTube%20Clone) |
-| Netflix Clone   | [Live Preview](https://shamirali55.github.io/Website-Clones/Netflix%20Clone) |
-| Facebook Clone  | [Live Preview](https://shamirali55.github.io/Website-Clones/Facebook%20Clone) |
-| Amazon Clone    | [Live Preview](https://shamirali55.github.io/Website-Clones/Amazon%20Clone) |
-| Spotify Clone   | [Live Preview](https://shamirali55.github.io/Website-Clones/Spotify%20Clone) |
+| Clone Name         | Live Preview                                                                                     |
+|--------------------|--------------------------------------------------------------------------------------------------|
+| Sidcup Family Golf | [Live Preview](https://shamirali55.github.io/Website-Clones/Sidcup%20Family%20Golf/index.html)  |
+| Netflix Clone      | [Live Preview](https://shamirali55.github.io/Website-Clones/Netflix%20Clone)                    |
+| Facebook Clone     | [Live Preview](https://shamirali55.github.io/Website-Clones/Facebook%20Clone)                   |
+| Amazon Clone       | [Live Preview](https://shamirali55.github.io/Website-Clones/Amazon%20Clone)                     |
+| Spotify Clone      | [Live Preview](https://shamirali55.github.io/Website-Clones/Spotify%20Clone)                    |
 
 ---
 
