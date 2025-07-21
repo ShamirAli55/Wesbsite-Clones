@@ -5,14 +5,36 @@
 }
 
 body,
-html {
+html
+{
   height: 100%;
   width: 100%;
   font-family: Helvetica, sans-serif;
   overflow-x: hidden;
 }
-* button:hover {
+* button:hover 
+{
   cursor: pointer;
+}
+body::-webkit-scrollbar{
+  display: block;
+  width: 8px;
+   background-color:#034f36;
+}
+body::-webkit-scrollbar-thumb
+{
+  border-radius: 50px;
+    background: #95c11e;
+}
+#cursor
+{
+  position: fixed;
+  width: 20px;
+  height:20px;
+  background-color:#15d18c;
+  border-radius: 50%;
+  z-index: 10;
+  transition: all linear 0.1s;
 }
 #main {
   height: 100%;
@@ -65,7 +87,7 @@ html {
   padding-left: 3vw;
   padding-right: 5vw;
   gap: 20px;
-  transition: all 0.3s ease-in-out;
+  transition: all ease-in-out 0.1s;
 }
 
 #icon {
@@ -628,7 +650,7 @@ html {
   color: black;
 }
 #icons > i {
-  transition: all 1ms ease-in;
+  transition: all ease-in 0.1s;
 }
 #icons > i:hover {
   background-color: rgba(128, 128, 128, 0.4);
