@@ -47,7 +47,26 @@
   }
   .dot
   {
-    @apply h-20 w-20 bg-red-600 rounded-full mx-6;
+    @apply h-20 w-20 bg-[#FE340A] rounded-full mx-6;
+  }
+  .circle
+  {
+    animation-name: revolver;
+    animation-timing-function: ease-in-out;
+    animation-duration:8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    filter: blur(20px);
+  }
+  .fixed_image
+  {
+    @apply fixed top-40 left-1/2 h-85 w-70 rounded-xl z-50 object-cover;
+    opacity: 0;
+    pointer-events: none;
+  }
+  .project:hover .fixed_image
+  {
+    opacity: 1;
   }
   @keyframes slider {
     from
@@ -69,4 +88,21 @@
       transform: skewX(30deg);
     }
   }
+  @keyframes revolver 
+  {
+    0%{
+      transform: translateY(50%) ;
+      transform: translateX(20%);
+      transform: skewY(-10deg);
+    } 
+
+    100%
+    {
+      transform: translateY(25%);
+      transform: translateX(10%);
+      transform: skewY(10deg);
+
+    }
+  }
 }
+

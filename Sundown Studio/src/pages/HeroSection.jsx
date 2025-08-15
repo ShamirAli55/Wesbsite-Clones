@@ -7,7 +7,7 @@ const HeroSection = () => {
         <nav className='flex justify-between items-center px-6 py-8 pl-11 pb-0 h-[15vh]'>
             <img src="/Sundownlogo.svg" alt="logo" />
             <div className='flex gap-5'>
-                <Button name={"Work"}/>
+                <Button name={"Work"} />
                 <Button name={"Studio"}/>
                 <Button name={"Contact"}/>
             </div>
