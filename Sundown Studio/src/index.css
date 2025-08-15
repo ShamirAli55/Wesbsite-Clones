@@ -1,4 +1,32 @@
 @import "tailwindcss";
+*::selection{
+  color: #FB4F2A;
+}
+::-webkit-scrollbar {
+  width: 8px; 
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #FB4F2A; 
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 50vh; 
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #FB4F2A transparent;
+}
 
 @layer components{
   .butn
@@ -61,7 +89,7 @@
   .fixed_image
   {
     @apply fixed top-40 left-1/2 h-85 w-70 rounded-xl z-50 object-cover;
-    opacity: 0;
+    opacity:0;
     pointer-events: none;
   }
   .project:hover .fixed_image

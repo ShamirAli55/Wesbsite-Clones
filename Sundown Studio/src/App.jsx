@@ -9,7 +9,8 @@ import Footer from './pages/Footer'
 const App = () => {
   return (
     <>
-    <div className='bg-[#EFEAE3] overflow-x-hidden relative z-[10]'>
+    <div 
+    className='bg-[#EFEAE3] overflow-x-hidden relative z-[10]'>
       <HeroSection />
       <VideoSection/>
       <AboutSection/>
